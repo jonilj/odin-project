@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+
+li,
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    border: 2px;
+    border-style: dotted;
+}
